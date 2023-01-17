@@ -57,6 +57,8 @@ alert("it`s` working")
 //     console.log(`Good Game. Your score of ${userScore} did not beat the score of ${highScore}`);
 // }
 
+// nested conditions 
+
 // let password = "kitty";
 
 // if (password.length >= 6){
@@ -72,12 +74,16 @@ alert("it`s` working")
 //     console.log("Password must be 6 characters long! ")
 // }
 
-let loggedInUser = null;
+// let loggedInUser = null;
 
-if (loggedInUser) {
-    console.log("You Are Logged In!");
-}
-else {
-    console.log("Please Login!!")
-}
+// if (loggedInUser) {
+//     console.log("You Are Logged In!");
+// }
+// else {
+//     console.log("Please Login!!")
+// }
+
+//  logical operators 
+
+
 
